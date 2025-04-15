@@ -1,5 +1,4 @@
-Guilherme Schweitzer
-Ciências da Computação - Unoesc - Quinta Fase
+Guilherme Schweitzer - Ciências da Computação - Unoesc - Quinta Fase
 
 Projeto para criar uma página de login que permite salvar o e-mail com o uso de cookies. 
 
